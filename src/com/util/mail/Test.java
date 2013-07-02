@@ -7,7 +7,7 @@ public class Test {
 		mailInfo.setMailServerPort("25");
 		mailInfo.setValidate(true);
 		mailInfo.setUserName("ye.cassie@gmail.com");
-		mailInfo.setPassWord("just@4you");
+		mailInfo.setPassWord("。。。。。。");
 		mailInfo.setFromAddress("ye.cassie@gmail.com");
 		mailInfo.setToAddress("ye.cassie@gmail.com");
 		mailInfo.setSubject("subject is my first test for java mail");
